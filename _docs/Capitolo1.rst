@@ -372,7 +372,7 @@ necessarie a garantire la corretta gestione dei processi.
 Nei ”*workflow*” applicativi gestiti dal Nodo dei Pagamenti-SPC
 (:ref:`vedi capitolo 2 <Capitolo2>`) è previsto lo scambio di oggetti applicativi
 costituiti da documenti informatici, in formato di file XML, le cui
-specifiche di dettaglio sono riportate nel `Capitolo 5 delle SANP <http://pagopa-specifichepagamenti.readthedocs.io/it/latest/_docs/Capitolo5.html#>`_. 
+specifiche di dettaglio sono riportate nel `Capitolo 1 dell'Allegato A 2 Regole tecniche di colloquio <http://pagopa-specifichepagamenti.readthedocs.io/it/latest/_docs/Capitolo5.html#>`_. 
 Assumono particolare rilevanza le seguenti strutture
 standardizzate:
 
