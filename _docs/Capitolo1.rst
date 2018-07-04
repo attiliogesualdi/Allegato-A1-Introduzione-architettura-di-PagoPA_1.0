@@ -406,7 +406,7 @@ livello nazionale dalla seguente coppia di informazioni:
 Nell’ambito delle funzionalità esposte dal Nodo dei Pagamenti-SPC sono
 previsti ulteriori oggetti applicativi scambiati, tra lo stesso NodoSPC
 ed i soggetti aderenti, che riguardano le Strutture dati di supporto ed
-i Servizi applicativi opzionali (`vedi anche capitolo 4 delle SANP <http://pagopa-specifichepagamenti.readthedocs.io/it/latest/_docs/Capitolo4.html>`_).
+i Servizi applicativi opzionali (`vedi anche capitolo 5 dell'Allegato A 3 Processo di Attivazione <http://pagopa-specifichepagamenti.readthedocs.io/it/latest/_docs/Capitolo4.html>`_).
 
 .. _identificativo-univoco-di-versamento:
 
@@ -583,7 +583,7 @@ e PSP).
 
 L’elenco delle informazioni minime che ogni soggetto (Enti Creditori e
 PSP aderenti, Nodo dei Pagamenti-SPC) deve registrare nel proprio
-“Giornale degli Eventi” è indicato nel `capitolo 5.3.11 delle SANP <http://pagopa-specifichepagamenti.readthedocs.io/it/latest/_docs/Capitolo5.html#catalogo-dei-servizi>`_.
+“Giornale degli Eventi” è indicato nel `capitolo 1.3.11 dell'Allegato A 2 Regole tecniche di colloquio <http://pagopa-specifichepagamenti.readthedocs.io/it/latest/_docs/Capitolo5.html#catalogo-dei-servizi>`_.
 Tali informazioni devono essere fornite ai soggetti interessati sul
 supporto definito dal soggetto che registra tali informazioni. Il Nodo
 dei Pagamenti-SPC fornisce tali informazioni su supporto cartaceo e file
