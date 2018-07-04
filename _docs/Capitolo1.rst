@@ -216,7 +216,7 @@ un flusso (l’Ente Creditore o il PSP) dal suo tramite tecnico
 
 Tale utilizzo è subordinato alla preventiva comunicazione all’Agenzia
 per l’Italia Digitale (ai fini del corretto popolamento della Tabella
-delle controparti, `cfr. § 4.2.1 delle SANP <http://pagopa-specifichepagamenti.readthedocs.io/it/latest/_docs/Capitolo4.html#tabella-delle-controparti>`_) 
+delle controparti, `cfr. § 5.2.1 dell'Allegato A3 Processo di Attivazione <http://pagopa-specifichepagamenti.readthedocs.io/it/latest/_docs/Capitolo4.html#tabella-delle-controparti>`_) 
 ed al riconoscimento da parte del Nodo dei Pagamenti-SPC.
 
 Nel Dominio, le attività di pertinenza di ogni soggetto sono effettuate
