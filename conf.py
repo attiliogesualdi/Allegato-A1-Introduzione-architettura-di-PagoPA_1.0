@@ -2,13 +2,13 @@
 # -*- coding: utf-8 -*-
 
 # -- PROJECT Variables ----------------------------------------------------
-settings_project_name = "Introduzione_architettura_di_PagoPA_v1.0"
+settings_project_name = "Allegato_A1_Introduzione_architettura_di_PagoPA_v1.0"
 settings_copyright_copyleft = 'AgID - Team Digitale'
 settings_editor_name = 'AgID - Team Digitale'
 settings_doc_version = 'version: latest'
 settings_doc_release = 'version: latest'
-settings_basename = 'Introduzione_architettura_di_PagoPA_v1.0'
-settings_file_name = 'Introduzione_architettura_di_PagoPA_v1.0'
+settings_basename = 'Allegato_A1_Introduzione_architettura_di_PagoPA_v1.0'
+settings_file_name = 'Allegato_A1_Introduzione_architettura_di_PagoPA_v1.0'
 
 # -- No need to change below here
 
