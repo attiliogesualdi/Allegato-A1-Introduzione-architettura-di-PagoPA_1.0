@@ -455,7 +455,7 @@ consapevole.
 Per questi motivi, i PSP che offrono tale servizio devono:
 
 a. indicare attraverso il *Catalogo Dati Informativi*
-   (:ref:`vedi § 4.2.2 <catalogo-dati-informativicap4>`) informazioni
+   (`vedi § 5.2.2 dell'Allegato A3 Processo di Attivazione <catalogo-dati-informativicap4>`) informazioni
    diversificate per i pagamenti *on us* e i pagamenti *not* *on us*;
 
 b. inviare all’Agenzia, con le modalità da questa di volta in volta
@@ -491,7 +491,7 @@ Qualora l’utilizzatore finale chieda a vario titolo l’annullamento
 stato disposto, il sistema mette a disposizione dell’Ente Creditore e
 del PSP idonee funzionalità del Nodo dei Pagamenti-SPC per gestire detta
 operazione utilizzando la richiesta di una revoca della RT inviata in
-precedenza (`vedi paragrafo 4.4.5 delle SANP <http://pagopa-specifichepagamenti.readthedocs.io/it/latest/_docs/Capitolo4.html#storno-di-un-pagamento>`_).
+precedenza (`vedi paragrafo 5.4.5 dell'Allegato A3 Processo di Attivazione <http://pagopa-specifichepagamenti.readthedocs.io/it/latest/_docs/Capitolo4.html#storno-di-un-pagamento>`_).
 
 Come indicato dal modello esposto in Figura 7, lo “storno” del pagamento
 si esplica nell’invio di una richiesta di revoca (RR) da parte dell’Ente
@@ -580,7 +580,7 @@ compone dei seguenti passi:
    (interrogando l’Archivio dei Pagamenti in Attesa). In questa fase
    l’Ente Creditore può comunicare all’utilizzatore finale
    informazioni aggiuntive sul pagamento stesso
-   (`vedi § 7.4.5 Sezione II delle SANP <http://pagopa-specifichepagamenti.readthedocs.io/it/latest/_docs/Capitolo7.html#comunicazioni-all-utilizzatore-finale>`_);
+   (`vedi § 1.7.5 dell'Allegato A2 Regole tecniche di colloquio <http://pagopa-specifichepagamenti.readthedocs.io/it/latest/_docs/Capitolo7.html#comunicazioni-all-utilizzatore-finale>`_);
 
 3. l’utilizzatore finale autorizza il pagamento presso le strutture
    messe a disposizione dal PSP;
@@ -641,7 +641,7 @@ documento stesso.
 
 Per comunicare al PSP tali variazioni o ulteriori informazioni legate al
 pagamento, utili per informare l'utilizzatore finale, l'Ente Creditore
-deve utilizzare le modalità indicate al `§ 7.4.5 Sezione II delle SANP <http://pagopa-specifichepagamenti.readthedocs.io/it/latest/_docs/Capitolo7.html#comunicazioni-all-utilizzatore-finale>`_
+deve utilizzare le modalità indicate al `§ 1.7.5 dell'Allegato A2 Regole tecniche di colloquio <http://pagopa-specifichepagamenti.readthedocs.io/it/latest/_docs/Capitolo7.html#comunicazioni-all-utilizzatore-finale>`_
 
 .. _attivazione-della-richiesta-di-pagamento:
 
@@ -691,7 +691,7 @@ sostituzione della iniziale richiesta di “*verifica del pagamento in attesa*�
 con la richiesta del “*numero dell'avviso*”.
 
 Il NodoSPC riceve la richiesta del numero di avviso dal PSP, controlla
-sul Catalogo dei servizi (vedi §§ `4.2.4 <http://pagopa-specifichepagamenti.readthedocs.io/it/latest/_docs/Capitolo4.html#catalogo-dei-servizi>`_ e `5.3.11 delle SANP <http://pagopa-specifichepagamenti.readthedocs.io/it/latest/_docs/Capitolo5.html#catalogo-dei-servizi>`_),
+sul Catalogo dei servizi (vedi §§ `5.2.4 Allegato A3 Processo di Attivazione <http://pagopa-specifichepagamenti.readthedocs.io/it/latest/_docs/Capitolo4.html#catalogo-dei-servizi>`_ e `1.3.11 dell'Allegato A2 Regole tecniche di colloquio <http://pagopa-specifichepagamenti.readthedocs.io/it/latest/_docs/Capitolo5.html#catalogo-dei-servizi>`_),
 la congruità della richiesta e la inoltra all'Ente
 Creditore che, accedendo ai propri archivi, assegna alla richiesta il
 corretto numero avviso. Da questo momento in poi, il processo di
@@ -719,7 +719,7 @@ procedura di *charge back*) chieda al proprio prestatore di servizi di
 pagamento il rimborso di un pagamento già completato oppure in caso di
 annullo tecnico (:ref:`vedi § 2.3.1 <annullo-tecnico>`), il sistema pagoPA mette a disposizione
 di PSP e Enti Creditori idonee funzionalità per gestire la revoca della
-RT inviata in precedenza (`vedi paragrafo 4.4.4 <http://pagopa-specifichepagamenti.readthedocs.io/it/latest/_docs/Capitolo4.html#revoca-della-ricevuta-telematica>`_).
+RT inviata in precedenza (`vedi paragrafo 5.4.4 dell'Allegato A3 Processo di Attivazione<http://pagopa-specifichepagamenti.readthedocs.io/it/latest/_docs/Capitolo4.html#revoca-della-ricevuta-telematica>`_).
 
 |image11|
 
@@ -811,7 +811,7 @@ b) **digitale**, che viene inviato al Nodo dei Pagamenti SPC per essere
 ~~~~~~~~~~~~~~~~~~~~~~
 
 Per i pagamenti per i quali sono prodotti avvisi di pagamento analogici,
-oltre al logotipo del sistema pagoPA (`cfr. § 11.5 delle SANP <http://pagopa-specifichepagamenti.readthedocs.io/it/latest/_docs/Capitolo11.html#utilizzo-del-marchio-pagopa>`_),
+oltre al logotipo del sistema pagoPA (`vedi capitolo 2 dell'Allegato A3: Processo di Attivazione <http://pagopa-specifichepagamenti.readthedocs.io/it/latest/_docs/Capitolo11.html#utilizzo-del-marchio-pagopa>`_),
 risultano indispensabili per l'esecuzione del pagamento stesso le seguenti informazioni:
 
 a) Codice fiscale dell’Ente Creditore;
@@ -865,7 +865,7 @@ presenti sull’avviso di pagamento.
 Per questo motivo tale documento è corredato, oltre che dati essenziali
 sopra riportati, anche da un insieme di elementi grafici facilmente
 leggibili e decodificabili da apposite apparecchiature 
-(:ref:`vedi anche il § 7.4.2 delle SANP <http://pagopa-specifichepagamenti.readthedocs.io/it/latest/_docs/Capitolo7.html#automazione-dellavviso-di-pagamento-analogico>`_).
+(:ref:`vedi anche il § 1.7.2 dell'Allegato A2: Regole tecniche di colloquio <http://pagopa-specifichepagamenti.readthedocs.io/it/latest/_docs/Capitolo7.html#automazione-dellavviso-di-pagamento-analogico>`_).
 
 .. _avviso-digitale:
 
@@ -875,8 +875,8 @@ leggibili e decodificabili da apposite apparecchiature
 
 Per i pagamenti per i quali sono messi a disposizione dell'utilizzatore
 finale avvisi di pagamento analogici, l’Ente Creditore deve generare
-corrispondenti avvisi digitali secondo il formato indicato al `§ 5.4 delle SANP <http://pagopa-specifichepagamenti.readthedocs.io/it/latest/_docs/Capitolo5.html#avvisatura-digitale>`_ 
-e inviarli al NodoSPC con le modalità indicate al `§ 8.1.6 delle SANP <http://pagopa-specifichepagamenti.readthedocs.io/it/latest/_docs/Capitolo8.html#processo-di-avvisatura-digitale-push-su-iniziativa-dell-ente-creditore>`_.
+corrispondenti avvisi digitali secondo il formato indicato al `§ 1.4 dell'Allegato A2: Regole tecniche di colloquio <http://pagopa-specifichepagamenti.readthedocs.io/it/latest/_docs/Capitolo5.html#avvisatura-digitale>`_ 
+e inviarli al NodoSPC con le modalità indicate al `§ 2.1.6 dell'Allegato A2: Regole tecniche di colloquio <http://pagopa-specifichepagamenti.readthedocs.io/it/latest/_docs/Capitolo8.html#processo-di-avvisatura-digitale-push-su-iniziativa-dell-ente-creditore>`_.
 
 .. _attestazione-del-pagamento:
 
@@ -904,7 +904,7 @@ liberatoria, può essere utilizzata dall’utilizzatore finale per ottenere
 quietanza da parte dell’EC.
 
 Le copie analogiche prodotte dall’Ente Creditore o dai PSP devono
-necessariamente contenere, oltre al logo del sistema pagoPA (`cfr. § 11.5 delle SANP <http://pagopa-specifichepagamenti.readthedocs.io/it/latest/_docs/Capitolo11.html#utilizzo-del-marchio-pagopa>`_) [2]_ almeno le seguenti informazioni, per il cui contenuto si rimanda al `capitolo 5 ella Sezione II delle SANP <http://pagopa-specifichepagamenti.readthedocs.io/it/latest/_docs/Capitolo5.html>`_:
+necessariamente contenere, oltre al logo del sistema pagoPA (`cfr. § 4.1 dell'Allegato A3 Processo di Attivazione <http://pagopa-specifichepagamenti.readthedocs.io/it/latest/_docs/Capitolo11.html#utilizzo-del-marchio-pagopa>`_) [2]_ almeno le seguenti informazioni, per il cui contenuto si rimanda al `capitolo 1 dell'Allegato A2 Regole tecniche di colloquio <http://pagopa-specifichepagamenti.readthedocs.io/it/latest/_docs/Capitolo5.html>`_:
 
 a) Data dell’operazione
 
@@ -923,7 +923,7 @@ g) Causale del versamento indicata nella RPT.
 Nel caso del pagamento effettuato presso il PSP, quest’ultimo deve
 rendere disponibile, anche attraverso la stampa di un pre-scontrino, le
 indicazioni di dettaglio del pagamento previste dal
-`§ 7.4.5 delle SANP <http://pagopa-specifichepagamenti.readthedocs.io/it/latest/_docs/Capitolo7.html#comunicazioni-all-utilizzatore-finale>`_.
+`§ 1.7.5 dell'Allegato A2: Regole tecniche di colloquio <http://pagopa-specifichepagamenti.readthedocs.io/it/latest/_docs/Capitolo7.html#comunicazioni-all-utilizzatore-finale>`_.
 
 .. _identificazione-utilizzatore-finale:
 
@@ -986,7 +986,7 @@ due diverse modalità di riconciliazione.
 
 I dati in possesso dell’Ente Creditore, necessari per eseguire la
 riconciliazione con la disposizione di accredito inviata al PSP del
-debitore, sono definiti al `paragrafo 5.3.2 della Sezione II delle SANP <http://pagopa-specifichepagamenti.readthedocs.io/it/latest/_docs/Capitolo5.html#ricevuta-telematica-rt>`_, per quanto riguarda la Ricevuta
+debitore, sono definiti al `paragrafo 1.3.2 dell'Allegato A2: Regole tecniche di colloquio <http://pagopa-specifichepagamenti.readthedocs.io/it/latest/_docs/Capitolo5.html#ricevuta-telematica-rt>`_, per quanto riguarda la Ricevuta
 Telematica (RT) e nella Sezione II dell’Allegato A alle Linee guida per
 ciò che riguarda i dati del Flusso di rendicontazione.
 
@@ -1009,7 +1009,7 @@ riconciliazione in modalità singola.
 
 L’operazione di riconciliazione in modalità singola viene effettuata
 dall’Ente Creditore sulla base della seguente coppia di informazioni
-(`vedi paragrafo 5.3.2 delle SANP <http://pagopa-specifichepagamenti.readthedocs.io/it/latest/_docs/Capitolo5.html#ricevuta-telematica-rt>`_) presenti sulla RT inviata dal PSP all’Ente Creditore:
+(`vedi paragrafo 1.3.2 dell'Allegato A2: Regole tecniche di colloquio <http://pagopa-specifichepagamenti.readthedocs.io/it/latest/_docs/Capitolo5.html#ricevuta-telematica-rt>`_) presenti sulla RT inviata dal PSP all’Ente Creditore:
 
 a. identificativoUnivocoVersamento (IUV) che deve coincidere con la
    componente <IUV> della causale della disposizione di accredito
@@ -1079,7 +1079,7 @@ rendicontazione.
 
 Il Nodo dei Pagamenti-SPC fornisce apposite funzioni centralizzate a
 disposizione dei prestatori di servizi di pagamento e degli Enti
-Creditori (`vedi § 4.4.6 <http://pagopa-specifichepagamenti.readthedocs.io/it/latest/_docs/Capitolo4.html#rendicontazione-per-gli-enti-creditori>`_),
+Creditori (`vedi § 5.4.6 dell'Allegato A3: Processo di Attivazione <http://pagopa-specifichepagamenti.readthedocs.io/it/latest/_docs/Capitolo4.html#rendicontazione-per-gli-enti-creditori>`_),
 con le quali i primi possono inviare il Flusso di
 rendicontazione e gli altri ricevere i dati ivi contenuti.
 
@@ -1343,7 +1343,7 @@ servizio di avvisatura in modalità *push*.
 
 Il protocollo di colloquio tra NodoSPC e i PSP, previsto per la fase di
 *enrolment* presso i PSP e da utilizzare esclusivamente per la modalità
-di inoltro *push*, è descritto nel `§ 9.2.7 delle SANP <http://pagopa-specifichepagamenti.readthedocs.io/it/latest/_docs/Capitolo9.html#avvisatura-digitale-push-su-iniziativa-dell-ente-creditore>`_
+di inoltro *push*, è descritto nel `§ 3.2.7 dell'Allegato A2: Regole tecniche di colloquio <http://pagopa-specifichepagamenti.readthedocs.io/it/latest/_docs/Capitolo9.html#avvisatura-digitale-push-su-iniziativa-dell-ente-creditore>`_
 
 .. _iscrizioni-presso-piu-prestatori-di-servizi-di-pagamento:
 
@@ -1392,7 +1392,7 @@ circa l'esito della presa in carico da parte del PSP: nel primo caso in
 modalità asincrona, sempre via file transfer; nel secondo in modalità
 sincrona all'interno della stessa chiamata SOAP.
 
-Il processo di invio degli avvisi è ampiamente dettagliato nel `§ 8.1.6 delle SANP <http://pagopa-specifichepagamenti.readthedocs.io/it/latest/_docs/Capitolo8.html#processo-di-avvisatura-digitale-push-su-iniziativa-dell-ente-creditore>`_ 
+Il processo di invio degli avvisi è ampiamente dettagliato nel `§ 2.1.6 dell'Allegato A2: Regole tecniche di colloquio <http://pagopa-specifichepagamenti.readthedocs.io/it/latest/_docs/Capitolo8.html#processo-di-avvisatura-digitale-push-su-iniziativa-dell-ente-creditore>`_ 
 
 .. _inoltro-degli-avvisi-al-debitore:
 
