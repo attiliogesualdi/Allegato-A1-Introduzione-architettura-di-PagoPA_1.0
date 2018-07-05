@@ -35,11 +35,11 @@ Si fa presente che, nella gestione di tali *workflow* occorre tenere in
 considerazione i cosiddetti *Timeout*, ovvero i tempi massimi necessari
 a definire che un processo di pagamento ha avuto termine con un esito
 negativo, per i quali si rimanda al Capitolo 4 del documento “Indicatori di qualità per i Soggetti Aderenti” 
-(`si veda anche il § 12.6.1 delle SANP <http://pagopa-specifichepagamenti.readthedocs.io/it/latest/_docs/Capitolo12.html#indicatori-di-qualita-del-nodo-dei-pagamenti-spc>`_).
+(`si veda anche il § 6.6.1 dell'Allegato A3 Processo di Attivazione <http://pagopa-specifichepagamenti.readthedocs.io/it/latest/_docs/Capitolo12.html#indicatori-di-qualita-del-nodo-dei-pagamenti-spc>`_).
 
 I *workflow* di seguito descritti sono parte integrante delle
 implementazioni previste nel Nodo dei Pagamenti-SPC (`vedi anche Sezione
-III delle SANP <http://pagopa-specifichepagamenti.readthedocs.io/it/latest/_docs/SEZIONE_III_-_SPECIFICHE_DI_INTERCONNESSIONE.html#>`_).
+III dell'Allegato A2 Regole tecniche di colloquio <http://pagopa-specifichepagamenti.readthedocs.io/it/latest/_docs/SEZIONE_III_-_SPECIFICHE_DI_INTERCONNESSIONE.html#>`_).
 
 .. _processo-di-pagamento-attivato-presso-lente-creditore:
 
